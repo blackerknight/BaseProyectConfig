@@ -3,18 +3,62 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D46CC17233D7E03007E9675 /* mensajes_pestanas.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC02233D7DFF007E9675 /* mensajes_pestanas.json */; };
+		6D46CC18233D7E03007E9675 /* notificacion1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC03233D7DFF007E9675 /* notificacion1.json */; };
+		6D46CC19233D7E03007E9675 /* uploading_ok.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC04233D7E00007E9675 /* uploading_ok.json */; };
+		6D46CC1A233D7E03007E9675 /* notificaciones_menu2.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC05233D7E00007E9675 /* notificaciones_menu2.json */; };
+		6D46CC1B233D7E03007E9675 /* tab2.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC06233D7E00007E9675 /* tab2.json */; };
+		6D46CC1C233D7E03007E9675 /* intro.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC07233D7E00007E9675 /* intro.json */; };
+		6D46CC1D233D7E03007E9675 /* uploading.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC08233D7E00007E9675 /* uploading.json */; };
+		6D46CC1E233D7E03007E9675 /* historial_pestanas.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC09233D7E00007E9675 /* historial_pestanas.json */; };
+		6D46CC1F233D7E03007E9675 /* tab4.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0A233D7E01007E9675 /* tab4.json */; };
+		6D46CC20233D7E03007E9675 /* tab1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0B233D7E01007E9675 /* tab1.json */; };
+		6D46CC21233D7E03007E9675 /* login_registro.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0C233D7E01007E9675 /* login_registro.json */; };
+		6D46CC22233D7E03007E9675 /* Sync_descarga.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0D233D7E01007E9675 /* Sync_descarga.json */; };
+		6D46CC23233D7E03007E9675 /* notificaciones_menu3.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0E233D7E01007E9675 /* notificaciones_menu3.json */; };
+		6D46CC24233D7E03007E9675 /* tab3.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC0F233D7E02007E9675 /* tab3.json */; };
+		6D46CC25233D7E03007E9675 /* notificacion3.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC10233D7E02007E9675 /* notificacion3.json */; };
+		6D46CC26233D7E03007E9675 /* notificacion2.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC11233D7E02007E9675 /* notificacion2.json */; };
+		6D46CC27233D7E03007E9675 /* onda.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC12233D7E02007E9675 /* onda.json */; };
+		6D46CC28233D7E03007E9675 /* notificaciones_menu4.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC13233D7E02007E9675 /* notificaciones_menu4.json */; };
+		6D46CC29233D7E03007E9675 /* tab5.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC14233D7E02007E9675 /* tab5.json */; };
+		6D46CC2A233D7E03007E9675 /* notificaciones_menu1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC15233D7E02007E9675 /* notificaciones_menu1.json */; };
+		6D46CC2B233D7E03007E9675 /* uploading_alerta.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D46CC16233D7E02007E9675 /* uploading_alerta.json */; };
 		6DF055682320821400C17E1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF055672320821400C17E1C /* AppDelegate.swift */; };
 		6DF0556A2320821400C17E1C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF055692320821400C17E1C /* ViewController.swift */; };
 		6DF0556D2320821400C17E1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DF0556B2320821400C17E1C /* Main.storyboard */; };
 		6DF0556F2320821800C17E1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DF0556E2320821800C17E1C /* Assets.xcassets */; };
 		6DF055722320821800C17E1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DF055702320821800C17E1C /* LaunchScreen.storyboard */; };
+		C69B833CD8EE41B09A218EE9 /* Pods_BaseProyectConfig.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9729E5D01096C5B18C90CD52 /* Pods_BaseProyectConfig.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6D2C370B233ED1AE00FDA4B9 /* ZeusEvaluator.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ZeusEvaluator.framework; path = ../../../trabajo/upaxer/UPXAPP_IOS/framewoksCustom/ZeusEvaluator.framework; sourceTree = "<group>"; };
+		6D46CC02233D7DFF007E9675 /* mensajes_pestanas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mensajes_pestanas.json; sourceTree = "<group>"; };
+		6D46CC03233D7DFF007E9675 /* notificacion1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificacion1.json; sourceTree = "<group>"; };
+		6D46CC04233D7E00007E9675 /* uploading_ok.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = uploading_ok.json; sourceTree = "<group>"; };
+		6D46CC05233D7E00007E9675 /* notificaciones_menu2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificaciones_menu2.json; sourceTree = "<group>"; };
+		6D46CC06233D7E00007E9675 /* tab2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tab2.json; sourceTree = "<group>"; };
+		6D46CC07233D7E00007E9675 /* intro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = intro.json; sourceTree = "<group>"; };
+		6D46CC08233D7E00007E9675 /* uploading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = uploading.json; sourceTree = "<group>"; };
+		6D46CC09233D7E00007E9675 /* historial_pestanas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = historial_pestanas.json; sourceTree = "<group>"; };
+		6D46CC0A233D7E01007E9675 /* tab4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tab4.json; sourceTree = "<group>"; };
+		6D46CC0B233D7E01007E9675 /* tab1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tab1.json; sourceTree = "<group>"; };
+		6D46CC0C233D7E01007E9675 /* login_registro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = login_registro.json; sourceTree = "<group>"; };
+		6D46CC0D233D7E01007E9675 /* Sync_descarga.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sync_descarga.json; sourceTree = "<group>"; };
+		6D46CC0E233D7E01007E9675 /* notificaciones_menu3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificaciones_menu3.json; sourceTree = "<group>"; };
+		6D46CC0F233D7E02007E9675 /* tab3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tab3.json; sourceTree = "<group>"; };
+		6D46CC10233D7E02007E9675 /* notificacion3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificacion3.json; sourceTree = "<group>"; };
+		6D46CC11233D7E02007E9675 /* notificacion2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificacion2.json; sourceTree = "<group>"; };
+		6D46CC12233D7E02007E9675 /* onda.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = onda.json; sourceTree = "<group>"; };
+		6D46CC13233D7E02007E9675 /* notificaciones_menu4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificaciones_menu4.json; sourceTree = "<group>"; };
+		6D46CC14233D7E02007E9675 /* tab5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tab5.json; sourceTree = "<group>"; };
+		6D46CC15233D7E02007E9675 /* notificaciones_menu1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = notificaciones_menu1.json; sourceTree = "<group>"; };
+		6D46CC16233D7E02007E9675 /* uploading_alerta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = uploading_alerta.json; sourceTree = "<group>"; };
 		6DF055642320821400C17E1C /* BaseProyectConfig.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaseProyectConfig.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DF055672320821400C17E1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DF055692320821400C17E1C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +66,9 @@
 		6DF0556E2320821800C17E1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6DF055712320821800C17E1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6DF055732320821800C17E1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9729E5D01096C5B18C90CD52 /* Pods_BaseProyectConfig.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BaseProyectConfig.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAE8D522214E655980FE98B7 /* Pods-BaseProyectConfig.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProyectConfig.debug.xcconfig"; path = "Target Support Files/Pods-BaseProyectConfig/Pods-BaseProyectConfig.debug.xcconfig"; sourceTree = "<group>"; };
+		F5956E65D5200091C6577D1B /* Pods-BaseProyectConfig.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProyectConfig.release.xcconfig"; path = "Target Support Files/Pods-BaseProyectConfig/Pods-BaseProyectConfig.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +76,57 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C69B833CD8EE41B09A218EE9 /* Pods_BaseProyectConfig.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3975E0CB4342E4E72AAF6077 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CAE8D522214E655980FE98B7 /* Pods-BaseProyectConfig.debug.xcconfig */,
+				F5956E65D5200091C6577D1B /* Pods-BaseProyectConfig.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		6D46CC01233D7DF7007E9675 /* anim */ = {
+			isa = PBXGroup;
+			children = (
+				6D46CC09233D7E00007E9675 /* historial_pestanas.json */,
+				6D46CC07233D7E00007E9675 /* intro.json */,
+				6D46CC0C233D7E01007E9675 /* login_registro.json */,
+				6D46CC02233D7DFF007E9675 /* mensajes_pestanas.json */,
+				6D46CC03233D7DFF007E9675 /* notificacion1.json */,
+				6D46CC11233D7E02007E9675 /* notificacion2.json */,
+				6D46CC10233D7E02007E9675 /* notificacion3.json */,
+				6D46CC15233D7E02007E9675 /* notificaciones_menu1.json */,
+				6D46CC05233D7E00007E9675 /* notificaciones_menu2.json */,
+				6D46CC0E233D7E01007E9675 /* notificaciones_menu3.json */,
+				6D46CC13233D7E02007E9675 /* notificaciones_menu4.json */,
+				6D46CC12233D7E02007E9675 /* onda.json */,
+				6D46CC0D233D7E01007E9675 /* Sync_descarga.json */,
+				6D46CC0B233D7E01007E9675 /* tab1.json */,
+				6D46CC06233D7E00007E9675 /* tab2.json */,
+				6D46CC0F233D7E02007E9675 /* tab3.json */,
+				6D46CC0A233D7E01007E9675 /* tab4.json */,
+				6D46CC14233D7E02007E9675 /* tab5.json */,
+				6D46CC16233D7E02007E9675 /* uploading_alerta.json */,
+				6D46CC04233D7E00007E9675 /* uploading_ok.json */,
+				6D46CC08233D7E00007E9675 /* uploading.json */,
+			);
+			path = anim;
+			sourceTree = "<group>";
+		};
 		6DF0555B2320821400C17E1C = {
 			isa = PBXGroup;
 			children = (
 				6DF055662320821400C17E1C /* BaseProyectConfig */,
 				6DF055652320821400C17E1C /* Products */,
+				3975E0CB4342E4E72AAF6077 /* Pods */,
+				E0FCC887F4A5F153E6B9F85E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +141,7 @@
 		6DF055662320821400C17E1C /* BaseProyectConfig */ = {
 			isa = PBXGroup;
 			children = (
+				6D46CC01233D7DF7007E9675 /* anim */,
 				6DF055672320821400C17E1C /* AppDelegate.swift */,
 				6DF055692320821400C17E1C /* ViewController.swift */,
 				6DF0556B2320821400C17E1C /* Main.storyboard */,
@@ -64,6 +152,15 @@
 			path = BaseProyectConfig;
 			sourceTree = "<group>";
 		};
+		E0FCC887F4A5F153E6B9F85E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6D2C370B233ED1AE00FDA4B9 /* ZeusEvaluator.framework */,
+				9729E5D01096C5B18C90CD52 /* Pods_BaseProyectConfig.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +168,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6DF055762320821800C17E1C /* Build configuration list for PBXNativeTarget "BaseProyectConfig" */;
 			buildPhases = (
+				AD7BFF393875CF0F6F55BB93 /* [CP] Check Pods Manifest.lock */,
 				6DF055602320821400C17E1C /* Sources */,
 				6DF055612320821400C17E1C /* Frameworks */,
 				6DF055622320821400C17E1C /* Resources */,
+				4BC5859E9195DD41B288F5C9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,13 +221,76 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D46CC18233D7E03007E9675 /* notificacion1.json in Resources */,
 				6DF055722320821800C17E1C /* LaunchScreen.storyboard in Resources */,
+				6D46CC21233D7E03007E9675 /* login_registro.json in Resources */,
+				6D46CC27233D7E03007E9675 /* onda.json in Resources */,
+				6D46CC25233D7E03007E9675 /* notificacion3.json in Resources */,
+				6D46CC22233D7E03007E9675 /* Sync_descarga.json in Resources */,
+				6D46CC1C233D7E03007E9675 /* intro.json in Resources */,
+				6D46CC1D233D7E03007E9675 /* uploading.json in Resources */,
+				6D46CC2B233D7E03007E9675 /* uploading_alerta.json in Resources */,
+				6D46CC26233D7E03007E9675 /* notificacion2.json in Resources */,
+				6D46CC2A233D7E03007E9675 /* notificaciones_menu1.json in Resources */,
+				6D46CC23233D7E03007E9675 /* notificaciones_menu3.json in Resources */,
+				6D46CC24233D7E03007E9675 /* tab3.json in Resources */,
+				6D46CC1B233D7E03007E9675 /* tab2.json in Resources */,
 				6DF0556F2320821800C17E1C /* Assets.xcassets in Resources */,
+				6D46CC29233D7E03007E9675 /* tab5.json in Resources */,
+				6D46CC28233D7E03007E9675 /* notificaciones_menu4.json in Resources */,
+				6D46CC1A233D7E03007E9675 /* notificaciones_menu2.json in Resources */,
+				6D46CC1E233D7E03007E9675 /* historial_pestanas.json in Resources */,
+				6D46CC1F233D7E03007E9675 /* tab4.json in Resources */,
+				6D46CC17233D7E03007E9675 /* mensajes_pestanas.json in Resources */,
 				6DF0556D2320821400C17E1C /* Main.storyboard in Resources */,
+				6D46CC19233D7E03007E9675 /* uploading_ok.json in Resources */,
+				6D46CC20233D7E03007E9675 /* tab1.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4BC5859E9195DD41B288F5C9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BaseProyectConfig/Pods-BaseProyectConfig-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BaseProyectConfig/Pods-BaseProyectConfig-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BaseProyectConfig/Pods-BaseProyectConfig-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AD7BFF393875CF0F6F55BB93 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BaseProyectConfig-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6DF055602320821400C17E1C /* Sources */ = {
@@ -280,6 +442,7 @@
 		};
 		6DF055772320821800C17E1C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CAE8D522214E655980FE98B7 /* Pods-BaseProyectConfig.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -291,13 +454,14 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = black.BaseProyectConfig;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		6DF055782320821800C17E1C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5956E65D5200091C6577D1B /* Pods-BaseProyectConfig.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -309,7 +473,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = black.BaseProyectConfig;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
